@@ -29,7 +29,7 @@ nav ul.nav-links li a {
 }
 
 section.hero {
-    background-image: url('background.jpg');
+    background-image: url('https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png');
     background-size: cover;
     background-position: center;
     height: 500px;
